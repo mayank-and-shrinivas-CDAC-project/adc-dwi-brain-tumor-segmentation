@@ -1,0 +1,26 @@
+==================================================
+Brain Tumor Analysis Report
+==================================================
+
+Patient ID : 19111608
+Model      : SIEMENS_SW_ENT
+Tumor Present : YES
+
+Volumes
+----------------------
+Brain Voxels : 284,625
+Tumor Voxels : 97,496
+Tumor %      : 34.254
+
+Tumor
+----------------------
+Components : 7
+Largest    : 96940
+Max Slice  : 73
+
+Class Statistics
+----------------------
+Background : 1,475,368
+Edema      : 71,268
+Tumor Core : 26,228
+Enhancing  : 0

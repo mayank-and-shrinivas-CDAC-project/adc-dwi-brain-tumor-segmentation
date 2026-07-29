@@ -1,0 +1,26 @@
+==================================================
+Brain Tumor Analysis Report
+==================================================
+
+Patient ID : 15886
+Model      : GE_SW_ENT
+Tumor Present : YES
+
+Volumes
+----------------------
+Brain Voxels : 247,733
+Tumor Voxels : 128,660
+Tumor %      : 51.935
+
+Tumor
+----------------------
+Components : 3
+Largest    : 128617
+Max Slice  : 75
+
+Class Statistics
+----------------------
+Background : 1,444,204
+Edema      : 68,412
+Tumor Core : 60,248
+Enhancing  : 0
